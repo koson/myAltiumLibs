@@ -1,0 +1,14 @@
+Component   : PCBComponent_1
+PCB Library : passiveCompsLib.PcbLib
+Date        : 25/08/2019
+Time        : 5:39:37 CH
+
+
+
+Dimension : 6.35 x 2.54 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+--------------------------------------------------------------------
+ Total                       0          4        0       0        0
